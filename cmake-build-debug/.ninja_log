@@ -1,3 +1,8 @@
 # ninja log v6
 20	207	7501128035298080	CMakeFiles/untitled21.dir/main.c.obj	fcd25f109e7d79bc
 208	412	7501128037169974	untitled21.exe	ecddbed772cb4f06
+69	442	7501167055401266	build.ninja	7592fc80e9e0abe0
+20	86	7501167056972871	CMakeFiles/untitled21.dir/main.c.obj	fcd25f109e7d79bc
+86	272	7501167057635199	untitled21.exe	ecddbed772cb4f06
+85	387	7507103436088516	CMakeFiles/untitled21.dir/main.c.obj	fcd25f109e7d79bc
+387	812	7507103439106297	untitled21.exe	ecddbed772cb4f06
