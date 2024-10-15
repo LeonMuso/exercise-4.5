@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-        int numeroProdotti, i;
+        int numeroProdotti, i /* =1*/;
         float costo, totale = 0;
         printf("Quanti prodotti hai acquistato? ");
         scanf("%d", &numeroProdotti);
